@@ -1,0 +1,27 @@
+body{
+  background: pink;
+  width: 80%;
+  margin: 0 auto;
+  
+}
+h1{
+	text-align: center;
+	font-weight: bold;
+	color: white;
+}
+ol{
+	margin: 0px 76px;
+}
+.midwest{
+	font-family: arial;
+	font-size: 30px;
+}
+.west{
+	font-family: tahoma;
+	font-size: 22px;
+	background: yellow;
+}
+
+img{
+  width: 200px;
+}
